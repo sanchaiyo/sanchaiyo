@@ -9,7 +9,7 @@
 
 # Other Stuff (Don't POC)
 ## MYSQL Command
-- LOAD DATA INFILE 'C:/code/olympus-sea/scripts/data/Opportunity.csv' INTO TABLE olympus.opportunity FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS;
+- LOAD DATA INFILE '{CSV LOCAION}' INTO TABLE olympus.opportunity FIELDS TERMINATED BY ',' ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 ROWS;
 
 ## Good Tool
 - [JSPdf](https://github.com/parallax/jsPDF)
